@@ -1,0 +1,7 @@
+{
+  "name": "PdfViewerTearsOnPinchZoom_ionic_angular_iOS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
